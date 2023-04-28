@@ -1,1 +1,0 @@
-Hello Kyrgyz German IT Community!
