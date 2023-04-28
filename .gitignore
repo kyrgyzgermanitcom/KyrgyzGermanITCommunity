@@ -25,7 +25,8 @@
 wp-config.php
 
 # Example themes
-/wp-content/themes/twenty*/
+/wp-content/themes/generatepress/
+/wp-content/theme/
 /wp-content/themes/generatepress_child/.vscode
 
 # Example plugin
